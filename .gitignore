@@ -421,6 +421,8 @@ Thumbs.db
 ehthumbs.db
 ehthumbs_vista.db
 
+ssl
+
 # Dump file
 *.stackdump
 
